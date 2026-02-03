@@ -9,19 +9,19 @@
 
 ## 🚀 About Me
 - 🎓 Final-year B.Tech Computer Science (IoT) student  
-- 💻 Interested in **Java Backend Development**
-- 🌱 Currently learning **Spring Boot & System Design basics**
+- 💻 Focused on **Java Backend Development**
+- 🌱 Currently learning **Spring Boot, SQL, and System Design basics**
 - 📍 India
 - 📫 Email: ankit02098@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Java, JavaScript
-- **Backend:** Spring Boot, REST APIs
-- **Frontend:** HTML, CSS, Tailwind CSS
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Postman, OpenAI API
+- **Languages:** Java, JavaScript, Python  
+- **Backend:** Spring Boot, REST APIs  
+- **Frontend:** React, HTML, CSS, Tailwind CSS  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, Postman, OpenAI API  
 
 ---
 
@@ -30,8 +30,8 @@
 ### 🔹 Intelligent Ticket Booking System (Java)
 - Backend-focused ticket booking system
 - Intelligent seat availability and booking logic
-- Built using Java OOP concepts  
-👉 *Pin this repository*
+- Implemented using Java OOP concepts  
+👉 **Pinned Repository**
 
 ### 🔹 Smart Resume Analyzer
 - NLP-based resume and job description matching
@@ -40,11 +40,10 @@
 
 ### 🔹 Job Recommendation System
 - Skill-based job recommendation platform
-- Match scoring and gap analysis
+- Match scoring and skill gap identification
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/ankit0209
-- GitHub: https://github.com/Ankit-code02
-
+- LinkedIn: https://linkedin.com/in/ankit0209  
+- GitHub: https://github.com/Ankit-code02  
