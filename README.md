@@ -43,6 +43,14 @@
 - Match scoring and skill gap identification
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact" />
+</p>
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/ankit0209  
