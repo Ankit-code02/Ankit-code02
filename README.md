@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact&hide_border=true" />
 </p>
 
 ## 📫 Connect With Me
