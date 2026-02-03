@@ -43,15 +43,12 @@
 - Match scoring and skill gap identification
 
 ---
----
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact&theme=github_dark" />
-
-</p>
+- ⭐ Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/Ankit-code02)
+- 👥 Followers: ![Followers](https://img.shields.io/github/followers/Ankit-code02?label=followers)
+- 👣 Following: ![Following](https://img.shields.io/github/following/Ankit-code02?label=following)
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/ankit0209  
