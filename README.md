@@ -89,8 +89,6 @@ Production-ready hospital appointment management platform built with **Spring Bo
 
 `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker`
 
-🔗 **Repository:** *(Add your MediSlot GitHub link here)*
-
 ---
 
 ## 🔐 SecureAuth API
@@ -100,8 +98,6 @@ Secure authentication and authorization REST API featuring **JWT**, **Role-Based
 **Tech Stack**
 
 `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL`
-
-🔗 **Repository:** *(Add your repository link here)*
 
 ---
 
