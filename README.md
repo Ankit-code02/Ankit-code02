@@ -16,6 +16,12 @@ Building scalable backend systems with clean architecture.
 
 <p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Ankit-code02&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
 <a href="https://ankit-portfolio-two-brown.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Live-gold?style=for-the-badge"/>
 </a>
@@ -169,5 +175,15 @@ GitHub
 <a href="https://www.linkedin.com/in/ankit0209/">
 LinkedIn
 </a>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-code02&theme=tokyo-night&hide_border=true"/>
 
 </p>
