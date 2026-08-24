@@ -81,6 +81,27 @@ I'm a **Java Backend Developer** passionate about building scalable backend syst
 
 # 🚀 Featured Projects
 
+### 🏢 SocietyOS
+
+Production-ready society management platform that helps residents and administrators manage complaints, maintenance, announcements, meetings, payments, residents, and society operations from one centralized system.
+
+**Tech Stack:** Java • Spring Boot • PostgreSQL • React • TypeScript • Docker • REST API
+
+**Live Demo:** https://societyos-psi.vercel.app  
+**GitHub:** https://github.com/Ankit-code02/societyos
+
+**Highlights:**
+- 🔐 Authentication and role-based access control
+- 🏢 Society, building, unit, and resident management
+- 🛠️ Complaints and maintenance management
+- 📢 Announcements and communication
+- 📅 Meetings and events
+- 💳 Maintenance and payment management
+- 🤖 AI Help Chatbot planned as part of the platform
+- 🚀 Frontend deployed on Vercel
+- ☁️ Spring Boot backend deployed on Render
+- 🗄️ PostgreSQL database deployed on Render
+
 ## 🏥 MediSlot
 
 Production-ready hospital appointment management platform built with **Spring Boot**, **Spring Security**, **JWT Authentication**, **PostgreSQL**, and **Docker**.
