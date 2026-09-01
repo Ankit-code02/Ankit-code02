@@ -28,7 +28,7 @@ Building backend and full-stack applications with Java and modern web technologi
 </p>
 
 <p align="center">
-  📧 <code>ankit02098@gmail.com</code> &nbsp;<sub>(tap the badge above, or copy this address — mailto links only open a compose window if your device has a default mail app configured)</sub>
+  📧 <code>ankit02098@gmail.com</code> &nbsp;
 </p>
 
 <p align="center">
@@ -140,8 +140,6 @@ I enjoy designing REST APIs, implementing secure authentication and authorizatio
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ankit-code02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-> Note: the stats/trophy cards above pull from free shared services that occasionally go down or rate-limit (common across most GitHub profile READMEs) — if one looks broken, it usually comes back on its own within a few hours.
 
 ---
 
