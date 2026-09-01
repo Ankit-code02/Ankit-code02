@@ -1,206 +1,243 @@
 <h1 align="center">Hi 👋, I'm Ankit Maurya</h1>
 
 <h3 align="center">
-Java Backend Developer • Spring Boot • REST APIs
+Java Developer • Spring Boot • React • REST APIs
 </h3>
 
 <p align="center">
-Building scalable backend systems with clean architecture.
-</p>
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Production+Ready+Applications;Always+Learning+New+Technologies" />
-
-</p>
-<p align="center">
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ankit-code02&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+Building backend and full-stack applications with Java and modern web technologies.
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Full-Stack+Developer;Building+Real-World+Applications;Always+Learning+%26+Improving" alt="Typing SVG" />
+</p>
 
-<a href="https://ankit-portfolio-two-brown.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Live-gold?style=for-the-badge"/>
-</a>
-
-<a href="https://ankit-portfolio-two-brown.vercel.app/resume.pdf">
-<img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ankit0209/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge"/>
-</a>
-
+<p align="center">
+  <a href="https://ankit-portfolio-two-brown.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ankit0209/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Ankit-code02">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Java Backend Developer** passionate about building scalable backend systems and production-ready applications.
+I'm a **Java Developer** and Computer Science graduate focused on building backend and full-stack applications using **Java, Spring Boot, React, and PostgreSQL**.
 
-- 🎓 Final-year B.Tech Computer Science (IoT) student
-- 💻 Specialized in Java, Spring Boot and REST API development
-- 🔐 Experienced with Spring Security, JWT Authentication and RBAC
-- 🗄️ Working with PostgreSQL, MySQL and Docker
-- 🚀 Currently building real-world backend applications
-- 📚 Learning Microservices, Kafka and System Design
+I enjoy designing REST APIs, implementing secure authentication and authorization, working with relational databases, and building complete applications from backend services to user-facing interfaces.
+
+- 🎓 B.Tech in Computer Science
+- ☕ Focused on Java and Spring Boot development
+- 🌐 Building full-stack applications with React and TypeScript
+- 🔐 Spring Security, JWT Authentication & RBAC
+- 🗄️ PostgreSQL, MySQL, JPA & Hibernate
+- 🐳 Docker-based development and deployment
+- 🔌 REST API design and integration
+- 🧠 Practicing Data Structures & Algorithms with Java
+- ☁️ Exploring cloud deployment and distributed systems
+- 🤖 Exploring practical AI integration in software applications
+- 🎯 Open to Java Developer, Java Backend Developer, Java Full Stack Developer and Software Engineer opportunities
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
+### ☕ Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
+</p>
 
-### Database
+### ⚙️ Backend
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
 
-### Frontend
+`Spring Boot` `Spring Security` `REST APIs` `JPA` `Hibernate` `JWT`
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🎨 Frontend
 
-### Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🐳 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven" />
+</p>
+
+`Swagger / OpenAPI` `Gradle`
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏢 SocietyOS
+## 🏢 SocietyOS
 
-Production-ready society management platform that helps residents and administrators manage complaints, maintenance, announcements, meetings, payments, residents, and society operations from one centralized system.
+### Full-Stack Society Management Platform
 
-**Tech Stack:** Java • Spring Boot • PostgreSQL • React • TypeScript • Docker • REST API
+SocietyOS is a full-stack platform designed to centralize everyday residential society operations and replace fragmented workflows such as spreadsheets, chat groups, and manual processes.
 
-**Live Demo:** https://societyos-psi.vercel.app  
-**GitHub:** https://github.com/Ankit-code02/societyos
+### ✨ Key Features
 
-**Highlights:**
-- 🔐 Authentication and role-based access control
-- 🏢 Society, building, unit, and resident management
-- 🛠️ Complaints and maintenance management
-- 📢 Announcements and communication
+- 🔐 JWT authentication with access & refresh tokens
+- 🛡️ Role-based authorization and society membership validation
+- 🏢 Society, building, unit and resident management
+- 👥 Resident onboarding and invitation workflows
+- 🛠️ Complaint and maintenance management
+- 📢 Announcements and notifications
 - 📅 Meetings and events
-- 💳 Maintenance and payment management
-- 🤖 AI Help Chatbot planned as part of the platform
-- 🚀 Frontend deployed on Vercel
-- ☁️ Spring Boot backend deployed on Render
-- 🗄️ PostgreSQL database deployed on Render
+- 💳 Maintenance dues and payment workflow
+- 🤖 AI-assisted help using Gemini
+- 🗄️ PostgreSQL with Flyway migrations
+- ❤️ Spring Boot Actuator health monitoring
+- 🌐 React + TypeScript frontend
+- ☁️ Vercel + Render deployment
 
-## 🏥 MediSlot
+### 🧱 Architecture
 
-Production-ready hospital appointment management platform built with **Spring Boot**, **Spring Security**, **JWT Authentication**, **PostgreSQL**, and **Docker**.
+```text
+React + TypeScript
+        │
+        │ HTTPS / REST
+        ▼
+Spring Boot
+        │
+   ┌────┼───────────────┐
+   ▼    ▼               ▼
+PostgreSQL      Spring Security      Gemini AI
+   │
+Flyway
 
-**Tech Stack**
+🛠️ Tech Stack
 
-`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker`
+Java Spring Boot Spring Security JWT
+PostgreSQL Flyway React TypeScript
+Vite REST APIs Docker Gemini Vercel Render
 
----
+🔗 Live Application:
+https://societyos-psi.vercel.app
 
-## 🔐 SecureAuth API
+🔗 Repository:
+https://github.com/Ankit-code02/societyos
 
-Secure authentication and authorization REST API featuring **JWT**, **Role-Based Access Control (RBAC)**, and **Spring Security**.
+🏥 MediSlot
+Smart Healthcare Appointment Scheduling Platform
 
-**Tech Stack**
+A Spring Boot-based healthcare appointment scheduling application designed to manage patients, doctors, appointments, authentication, and scheduling workflows.
 
-`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL`
+✨ Key Features
+🔐 JWT authentication
+🛡️ Role-based access control
+👨‍⚕️ Patient, Doctor and Admin roles
+🔎 Doctor search by specialization
+📅 Appointment booking and status tracking
+⚠️ Appointment conflict detection
+📧 Automated email reminders
+🗄️ PostgreSQL persistence
+🐳 Docker & Docker Compose
+🛠️ Tech Stack
 
----
+Java Spring Boot Spring Security JWT
+PostgreSQL JPA/Hibernate Docker
 
-## 🌐 Developer Portfolio
+🔗 Repository:
+https://github.com/Ankit-code02/MediSlot
 
-Modern responsive portfolio developed with **React**, **TypeScript**, **Vite**, and **Framer Motion**.
+🚗 Car Rental System
+Full-Stack Car Rental Application
 
-🌍 Live Demo
+A full-stack web application built with React and Spring Boot for browsing, booking and managing rental cars.
 
+✨ Key Features
+🔐 Authentication
+🚘 Car listing management
+📅 Booking workflow
+👨‍💼 Admin management
+🔄 CRUD operations
+📱 Responsive frontend
+🛠️ Tech Stack
+
+Java Spring Boot React TypeScript
+REST APIs Bootstrap
+
+🔗 Repository:
+https://github.com/Ankit-code02/Car-Rental-System
+
+🔐 SecureAuth API
+Authentication & Authorization REST API
+
+A Spring Boot backend focused on secure authentication, authorization and user management.
+
+✨ Key Features
+🔐 JWT authentication
+🛡️ Spring Security
+👥 Role-Based Access Control
+🔌 REST APIs
+🗄️ PostgreSQL
+🧪 Postman API testing
+🛠️ Tech Stack
+
+Java Spring Boot Spring Security JWT
+JPA/Hibernate PostgreSQL
+
+🌐 Developer Portfolio
+
+A responsive developer portfolio built with React, TypeScript, Vite and Framer Motion.
+
+🔗 Live:
 https://ankit-portfolio-two-brown.vercel.app
 
-🔗 Repository
-
+🔗 Repository:
 https://github.com/Ankit-code02/ankit-portfolio
 
----
+📊 GitHub Statistics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-code02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
+🎯 Current Focus
+Java & Spring Boot
+        ↓
+REST API Design
+        ↓
+React + TypeScript
+        ↓
+PostgreSQL
+        ↓
+Docker & Deployment
+        ↓
+AWS
+        ↓
+Redis • Kafka • Microservices
+        ↓
+System Design
+        ↓
+AI Integration
 
-## 🎫 Intelligent Ticket Booking System
+Currently focused on:
 
-Java-based backend application demonstrating clean object-oriented programming and modular architecture.
-
-**Tech Stack**
-
-`Java` `OOP` `Collections`
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-code02&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building **SocietyOS** – A production-ready Society Management Platform
-- 📚 Learning **Microservices, Kafka, Redis & System Design**
-- 🎯 Preparing for **Java Backend Developer** opportunities
-- 💡 Exploring scalable backend architecture and clean code practices
-
----
-
-# 📬 Connect With Me
-
-<p align="center">
-
-<a href="https://ankit-portfolio-two-brown.vercel.app">
-Portfolio
-</a>
-•
-<a href="https://ankit-portfolio-two-brown.vercel.app/resume.pdf">
-Resume
-</a>
-•
-<a href="https://github.com/Ankit-code02">
-GitHub
-</a>
-•
-<a href="https://www.linkedin.com/in/ankit0209/">
-LinkedIn
-</a>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-code02&theme=tokyo-night&hide_border=true"/>
-
-</p>
+☕ Strengthening Java & Spring Boot
+🧠 Data Structures & Algorithms
+🌐 Building full-stack applications
+🗄️ Database design and SQL
+🐳 Docker and deployment
+☁️ AWS fundamentals
+🔄 Microservices, Kafka and Redis
+🏗️ System design fundamentals
+🤖 AI integration in backend applications
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-code02&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/> </p>
+🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/ankit0209/"> <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://ankit-portfolio-two-brown.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:ankit02098@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <p align="center"> <b>Building projects. Solving problems. Learning continuously.</b> </p> ```
