@@ -196,8 +196,6 @@ A responsive developer portfolio built with React, TypeScript, Vite and Framer M
   <img src="https://github-profile-trophy.vercel.app/?username=Ankit-code02&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
-> Note: the stats/trophy cards above pull from free shared services that occasionally go down or rate-limit (common across most GitHub profile READMEs) — if one looks broken, it usually comes back on its own within a few hours.
-
 ---
 
 ## 🎯 Current Focus
