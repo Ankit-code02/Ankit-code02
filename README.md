@@ -53,43 +53,13 @@ I enjoy designing REST APIs, implementing secure authentication and authorizatio
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-</p>
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-**Tools & Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven" />
-</p>
-
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+| Category | Stack |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) |
 
 ---
 
@@ -229,7 +199,7 @@ A responsive developer portfolio built with React, TypeScript, Vite and Framer M
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-code02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ankit-code02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -238,13 +208,15 @@ A responsive developer portfolio built with React, TypeScript, Vite and Framer M
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake *(pending setup)*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankit-code02/Ankit-code02/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-> **Setup note:** the snake graphic needs a GitHub Actions workflow in your profile repo (`Ankit-code02/Ankit-code02`) that generates and commits the SVG to an `output` branch. Add a file at `.github/workflows/snake.yml` using the [platane/snk](https://github.com/Platane/snk) action, then this image will render and animate automatically once the workflow runs.
+> This section is intentionally left without an image for now — it needs a GitHub Actions workflow in your profile repo (`Ankit-code02/Ankit-code02`) that generates an SVG and commits it to an `output` branch, using the [platane/snk](https://github.com/Platane/snk) action. Once that workflow exists, add this line back in:
+>
+> ```md
+> <img src="https://raw.githubusercontent.com/Ankit-code02/Ankit-code02/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+> ```
+>
+> Ask me and I can generate that workflow file for you.
 
 ---
 
