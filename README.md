@@ -28,7 +28,7 @@ Building backend and full-stack applications with Java and modern web technologi
 </p>
 
 <p align="center">
-  📧 <code>ankit02098@gmail.com</code> &nbsp;
+  📧 <code>ankit02098@gmail.com</code> &nbsp;<sub>(tap the badge above, or copy this address — mailto links only open a compose window if your device has a default mail app configured)</sub>
 </p>
 
 <p align="center">
@@ -71,113 +71,62 @@ I enjoy designing REST APIs, implementing secure authentication and authorizatio
 
 ## 🚀 Featured Projects
 
-### 🏢 SocietyOS — Full-Stack Society Management Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-SocietyOS is a full-stack platform designed to centralize everyday residential society operations and replace fragmented workflows such as spreadsheets, chat groups, and manual processes.
+🏢 **[SocietyOS](https://github.com/Ankit-code02/societyos)** — Full-stack society management platform. Residents, complaints, dues, meetings and AI-assisted help via Gemini. Deployed on Vercel + Render.
 
-<details>
-<summary><b>✨ Key Features</b></summary>
-<br>
+`Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Docker`
 
-- 🔐 JWT authentication with access & refresh tokens
-- 🛡️ Role-based authorization and society membership validation
-- 🏢 Society, building, unit and resident management
-- 👥 Resident onboarding and invitation workflows
-- 🛠️ Complaint and maintenance management
-- 📢 Announcements and notifications
-- 📅 Meetings and events
-- 💳 Maintenance dues and payment workflow
-- 🤖 AI-assisted help using Gemini
-- 🗄️ PostgreSQL with Flyway migrations
-- ❤️ Spring Boot Actuator health monitoring
-- 🌐 React + TypeScript frontend
-- ☁️ Vercel + Render deployment
+[Live App](https://societyos-psi.vercel.app) · [Repo](https://github.com/Ankit-code02/societyos)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** Java · Spring Boot · Spring Security · JWT · PostgreSQL · Flyway · React · TypeScript · Vite · REST APIs · Docker · Gemini · Vercel · Render
+🏥 **[MediSlot](https://github.com/Ankit-code02/MediSlot)** — Healthcare appointment scheduling platform. JWT auth, role-based access, doctor search, conflict detection, automated email reminders.
 
-🔗 [Live Application](https://societyos-psi.vercel.app) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Ankit-code02/societyos)
+`Java` `Spring Boot` `JWT` `PostgreSQL` `Docker`
 
----
+[Repo](https://github.com/Ankit-code02/MediSlot)
 
-### 🏥 MediSlot — Smart Healthcare Appointment Scheduling Platform
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A Spring Boot-based healthcare appointment scheduling application designed to manage patients, doctors, appointments, authentication, and scheduling workflows.
+🚗 **[Car Rental System](https://github.com/Ankit-code02/Car-Rental-System)** — Full-stack car rental app. Browsing, booking workflow, admin management, full CRUD operations, responsive frontend.
 
-<details>
-<summary><b>✨ Key Features</b></summary>
-<br>
+`Java` `Spring Boot` `React` `TypeScript` `Bootstrap`
 
-- 🔐 JWT authentication
-- 🛡️ Role-based access control
-- 👨‍⚕️ Patient, Doctor and Admin roles
-- 🔎 Doctor search by specialization
-- 📅 Appointment booking and status tracking
-- ⚠️ Appointment conflict detection
-- 📧 Automated email reminders
-- 🗄️ PostgreSQL persistence
-- 🐳 Docker & Docker Compose
+[Repo](https://github.com/Ankit-code02/Car-Rental-System)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** Java · Spring Boot · Spring Security · JWT · PostgreSQL · JPA/Hibernate · Docker
+🔐 **[SecureAuth API](https://github.com/Ankit-code02/SecureAuth-API)** — Authentication & authorization REST API. JWT, Spring Security, role-based access control, Postman-tested.
 
-🔗 [Repository](https://github.com/Ankit-code02/MediSlot)
+`Java` `Spring Boot` `JWT` `PostgreSQL`
 
----
+[Repo](https://github.com/Ankit-code02/SecureAuth-API)
 
-### 🚗 Car Rental System — Full-Stack Car Rental Application
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack web application built with React and Spring Boot for browsing, booking and managing rental cars.
+🌐 **[Developer Portfolio](https://github.com/Ankit-code02/ankit-portfolio)** — Responsive personal portfolio site with smooth page animations.
 
-<details>
-<summary><b>✨ Key Features</b></summary>
-<br>
+`React` `TypeScript` `Vite` `Framer Motion`
 
-- 🔐 Authentication
-- 🚘 Car listing management
-- 📅 Booking workflow
-- 👨‍💼 Admin management
-- 🔄 CRUD operations
-- 📱 Responsive frontend
+[Live](https://ankit-portfolio-two-brown.vercel.app) · [Repo](https://github.com/Ankit-code02/ankit-portfolio)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** Java · Spring Boot · React · TypeScript · REST APIs · Bootstrap
-
-🔗 [Repository](https://github.com/Ankit-code02/Car-Rental-System)
-
----
-
-### 🔐 SecureAuth API — Authentication & Authorization REST API
-
-A Spring Boot backend focused on secure authentication, authorization and user management.
-
-<details>
-<summary><b>✨ Key Features</b></summary>
-<br>
-
-- 🔐 JWT authentication
-- 🛡️ Spring Security
-- 👥 Role-Based Access Control
-- 🔌 REST APIs
-- 🗄️ PostgreSQL
-- 🧪 Postman API testing
-
-</details>
-
-**Tech Stack:** Java · Spring Boot · Spring Security · JWT · JPA/Hibernate · PostgreSQL
-
-🔗 [Repository](https://github.com/Ankit-code02/SecureAuth-API)
-
----
-
-### 🌐 Developer Portfolio
-
-A responsive developer portfolio built with React, TypeScript, Vite and Framer Motion.
-
-🔗 [Live](https://ankit-portfolio-two-brown.vercel.app) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/Ankit-code02/ankit-portfolio)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -192,9 +141,7 @@ A responsive developer portfolio built with React, TypeScript, Vite and Framer M
   <img src="https://streak-stats.demolab.com/?user=Ankit-code02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-code02&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+> Note: the stats/trophy cards above pull from free shared services that occasionally go down or rate-limit (common across most GitHub profile READMEs) — if one looks broken, it usually comes back on its own within a few hours.
 
 ---
 
