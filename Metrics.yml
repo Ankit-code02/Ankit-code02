@@ -1,0 +1,25 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  profile-metrics:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "header, activity, community, repositories, metadata"
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_lines: yes
+          plugin_stars: yes
