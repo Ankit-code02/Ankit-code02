@@ -30,54 +30,66 @@ I'm looking for an **entry-level Java Backend Developer or Java Full Stack Devel
 ## 🛠️ Technical Skills
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Backend Development</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring Boot"/>
-      </p>
-      Java · Spring Boot · Spring Security · REST APIs
-    </td>
-    <td width="50%" valign="top">
-      <h3>Frontend Development</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" alt="Frontend technologies"/>
-      </p>
-      React · TypeScript · JavaScript · HTML · CSS
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Databases & Caching</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL and Redis"/>
-      </p>
-      PostgreSQL · SQL · Redis
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Integration</h3>
-      <p>
-        <img src="https://img.shields.io/badge/LLM-Integration-6C5CE7?style=flat-square" alt="LLM Integration"/>
-      </p>
-      LLM APIs · Embeddings · Semantic Search · RAG Concepts
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Tools & Development</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,maven" alt="Development tools"/>
-      </p>
-      Git · GitHub · Docker · Docker Compose · Maven
-    </td>
-    <td width="50%" valign="top">
-      <h3>Messaging</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka"/>
-      </p>
-      Apache Kafka
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="25%">Category</th>
+      <th align="left">Technologies & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases & Caching</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>AI Integration</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/LLM_APIs-6C5CE7?style=flat-square" alt="LLM APIs"/>
+        <img src="https://img.shields.io/badge/Embeddings-6C5CE7?style=flat-square" alt="Embeddings"/>
+        <img src="https://img.shields.io/badge/Semantic_Search-6C5CE7?style=flat-square" alt="Semantic Search"/>
+        <img src="https://img.shields.io/badge/RAG_Concepts-6C5CE7?style=flat-square" alt="RAG Concepts"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Messaging</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Development Tools</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## Featured Projects
