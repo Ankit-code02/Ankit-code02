@@ -154,8 +154,7 @@ Graduated: June 2026
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact&theme=github_dark&hide=Python&langs_count=6" alt="Most Used Languages"/>
 
 ## Let's Connect
 
