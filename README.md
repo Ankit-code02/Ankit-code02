@@ -150,10 +150,15 @@ I'm looking for an **entry-level Java Backend Developer or Java Full Stack Devel
 Computer Science and Engineering · Specialization in Internet of Things (IoT)  
 Graduated: June 2026
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ankit-code02&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-code02&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=C,Cython" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-code02&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ## Let's Connect
