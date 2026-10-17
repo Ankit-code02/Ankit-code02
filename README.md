@@ -27,38 +27,58 @@ I'm looking for an **entry-level Java Backend Developer or Java Full Stack Devel
 - **AI integration:** LLM APIs, semantic search, and retrieval-oriented applications
 - **Engineering interests:** API design, data management, caching, messaging, and application architecture
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <table>
   <tr>
-    <td width="25%"><strong>Backend</strong></td>
-    <td>Java, Spring Boot, Spring Security, REST APIs</td>
+    <td width="50%" valign="top">
+      <h3>Backend Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring Boot"/>
+      </p>
+      Java · Spring Boot · Spring Security · REST APIs
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frontend Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" alt="Frontend technologies"/>
+      </p>
+      React · TypeScript · JavaScript · HTML · CSS
+    </td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, TypeScript, JavaScript, HTML, CSS</td>
+    <td width="50%" valign="top">
+      <h3>Databases & Caching</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL and Redis"/>
+      </p>
+      PostgreSQL · SQL · Redis
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Integration</h3>
+      <p>
+        <img src="https://img.shields.io/badge/LLM-Integration-6C5CE7?style=flat-square" alt="LLM Integration"/>
+      </p>
+      LLM APIs · Embeddings · Semantic Search · RAG Concepts
+    </td>
   </tr>
   <tr>
-    <td><strong>Databases</strong></td>
-    <td>PostgreSQL, SQL</td>
-  </tr>
-  <tr>
-    <td><strong>AI Integration</strong></td>
-    <td>LLM APIs, embeddings, semantic search, RAG concepts</td>
-  </tr>
-  <tr>
-    <td><strong>Caching & Messaging</strong></td>
-    <td>Redis, Apache Kafka</td>
-  </tr>
-  <tr>
-    <td><strong>Development Tools</strong></td>
-    <td>Git, GitHub, Docker, Docker Compose, Maven</td>
+    <td width="50%" valign="top">
+      <h3>Tools & Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,maven" alt="Development tools"/>
+      </p>
+      Git · GitHub · Docker · Docker Compose · Maven
+    </td>
+    <td width="50%" valign="top">
+      <h3>Messaging</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka"/>
+      </p>
+      Apache Kafka
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,postgres,redis,docker,git,github&perline=5" alt="Java, Spring Boot, React, TypeScript, JavaScript, PostgreSQL, Redis, Docker, Git and GitHub" />
-</p>
 
 ## Featured Projects
 
