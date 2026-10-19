@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/ankit0209/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
-    <a href="https://https://portfolio-kage.vercel.app/">
+    <a href="https://portfolio-kage.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -166,7 +166,7 @@ Graduated: June 2026
   <a href="https://www.linkedin.com/in/ankit0209/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://https://portfolio-kage.vercel.app/">
+  <a href="https://portfolio-kage.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:ankit02098@gmail.com">
